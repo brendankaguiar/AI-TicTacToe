@@ -9,7 +9,7 @@ Instructions to run 'test2.board':
 
 File Tree:
 -NSHE–ID_proj_1.zip
-	-Code
+<t>	-Code
 		-src
 			-Makefile
 			-test.board
