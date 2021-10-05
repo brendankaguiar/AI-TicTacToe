@@ -9,7 +9,7 @@ Instructions to run 'test2.board':
 <p>
 File Tree:
 -NSHE–ID_proj_1.zip
-	-Code
+emsp	-Code
 		-src
 			-Makefile
 			-test.board
